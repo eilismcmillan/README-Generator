@@ -1,5 +1,5 @@
 # demo
-  ![License Badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)(https://choosealicense.com/licenses/apache-2.0/)
+  ![License Badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
   ## Description
   this is a demo
