@@ -1,7 +1,8 @@
-# a
+# readme generator
+  ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)(https://choosealicense.com/licenses/mit/)
 
   ## Description
-  s
+  this generates a readme.md
 
   ## Table of Contents
    - [Installation](#installation)
@@ -12,26 +13,22 @@
    - [Questions](#questions)
    
   ## Installation
-  d
+  npm init, npm install
 
   ## Usage
-  v
+  use in terminal
 
   ## License
+  [MIT](https://choosealicense.com/licenses/mit/)
 
   ## How to Contribute
-  sf
+  - 
 
   ## Test Instructions
-  f
+  -
 
   ## Questions
-  s
 
-  GitHub: github.com/f
-  Email: s
-
-  f
-
-
-
+  For any additional comments or questions, you may reach me through the following links - 
+  GitHub: [eilismcmillan](github.com/eilismcmillan)
+  Email: eilis.mcmillan1998@gmail.com
