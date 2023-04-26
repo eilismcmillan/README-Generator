@@ -1,5 +1,5 @@
-# Sample README
-  ![License Badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# demo
+  ![License Badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)(https://choosealicense.com/licenses/apache-2.0/)
 
   ## Description
   this is a sample readme generated through CLI terminal
