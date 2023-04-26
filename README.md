@@ -8,8 +8,6 @@
    - [Installation](#installation)
    - [Usage](#usage)
    - [License](#license)
-   - [How to Contribute](#contribution)
-   - [Test Instructions](#instructions)
    - [Questions](#questions)
    
   ## Installation
@@ -17,6 +15,8 @@
 
   ## Usage
   After completing the installation instructions, users must open the terminal and enter the command 'node index.js' and answer the question prompts. once completed, a README.md will be created containing the information provided. 
+  
+  ![demo screenshot](https://github.com/eilismcmillan/README-Generator/blob/main/Develop/images/demo%20screenshot.png)
 
   ## License
   No license
