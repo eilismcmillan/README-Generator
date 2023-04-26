@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README-Generator
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
@@ -15,3 +16,6 @@ THEN this is added to the section of the README entitled ✅
 Questions, with instructions on how to reach me with additional questions ✅
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README ✅
+=======
+
+>>>>>>> 58da287fee17d8582d9b54e6a64674fcbe5ab84c
