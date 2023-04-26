@@ -23,5 +23,5 @@
 
   ## Questions
   For any additional comments or questions, you may reach me through the following links -   
-  GitHub: [${data.githubUser}](github.com/${data.githubUser})  
-  Email: ${data.email}  
+  GitHub: [eilismcmillan](github.com/eilismcmillan)  
+  Email: eilis.mcmillan199@gmail.com
