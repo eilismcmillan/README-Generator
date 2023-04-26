@@ -77,9 +77,9 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  For any additional comments or questions, you may reach me through the following links - 
-  GitHub: [${data.githubUser}](github.com/${data.githubUser})
-  Email: ${data.email}
+  For any additional comments or questions, you may reach me through the following links -   
+  GitHub: [${data.githubUser}](github.com/${data.githubUser})  
+  Email: ${data.email}  
 `;
 }
 
