@@ -67,7 +67,6 @@ const questions = [
 function init() {
   inquirer
     .prompt(questions)
-
     .then((answers) => {
       const markdownContent = generateMarkdown(answers);
 
