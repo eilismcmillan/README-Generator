@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   
 
   return `# ${data.title}
-  ![License Badge](${badgeIcon})(${licenseLink})
+  ![License Badge](${badgeIcon})
 
   ## Description
   ${data.description}

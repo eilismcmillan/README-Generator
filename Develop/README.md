@@ -1,8 +1,8 @@
-# demo
-  ![License Badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)(https://choosealicense.com/licenses/apache-2.0/)
+# Sample README
+  ![License Badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
   ## Description
-  this is a demo
+  this is a sample readme generated through CLI terminal
 
   ## Table of Contents
    - [Installation](#installation)
@@ -13,10 +13,10 @@
    - [Questions](#questions)
    
   ## Installation
-  use git clone
+  must clone repo onto local system and init and install npm
 
   ## Usage
-  open terminal
+  open terminal and answer prompts
 
   ## License
   [Apache](https://choosealicense.com/licenses/apache-2.0/)
@@ -25,7 +25,7 @@
   N/A
 
   ## Test Instructions
-  test using jest
+  N/A
 
   ## Questions
 
